@@ -1,5 +1,7 @@
 Next 14 Prisma App
 
+1. create dev.db file in "prisma" folder
+
 ```bash
 npm install
 ```
